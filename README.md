@@ -54,7 +54,5 @@ Actualmente estudiante de ingeniería en computación, he desarrollado diferente
 ![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 |:--------------------------------------:|:----------------------------------------------:|
-![CodeFU](https://code-fu-readme-badge.vercel.app/badges/default-badge.svg) ![CodeFU staff](https://code-fu-readme-badge.vercel.app/badges/afonseca.svg)|[![Visit Counter](https://visitcount.itsvg.in/api?id=DavidGDA&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)|
-
-|![GitHub Stats](https://img.shields.io/badge/github_stats-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)|![GitHub Streak](https://img.shields.io/badge/github%20streak-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)|
+![CodeFU](https://code-fu-readme-badge.vercel.app/badges/default-badge.svg) ![CodeFU staff](https://code-fu-readme-badge.vercel.app/badges/afonseca.svg)|
 |:--------------------------------------:|:----------------------------------------------:|
