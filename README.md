@@ -6,7 +6,6 @@ Actualmente estudiante de ingeniería en computación, he desarrollado diferente
 
 ## Áreas de desarrollo:
 - 🌐 Desarrollador fullstack de aplicaciones web
-- 💻 Desarrollador de apps de escritorio para sistemas operativos Windows con C# .NET
 
 ## Tech Stack
 
@@ -22,11 +21,6 @@ Actualmente estudiante de ingeniería en computación, he desarrollado diferente
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Despliego apps web en:**
-
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
 
 **Desarrollo principalmente con:**
 
