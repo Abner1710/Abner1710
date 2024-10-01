@@ -53,5 +53,5 @@ Actualmente estudiante de ingeniería en computación, he desarrollado diferente
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?&style=for-the-badge&logo=discord&logoColor=white)
 ![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-![CodeFU](https://code-fu-readme-badge.vercel.app/badges/default-badge.svg) ![CodeFU staff](https://code-fu-readme-badge.vercel.app/badges/afonseca.svg)|
+![CodeFU](https://code-fu-readme-badge.vercel.app/badges/default-badge.svg) ![CodeFU staff](https://code-fu-readme-badge.vercel.app/badges/afonseca.svg)
 
