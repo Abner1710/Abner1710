@@ -55,3 +55,4 @@ Actualmente estudiante de ingeniería en computación, he desarrollado diferente
 
 |:--------------------------------------:|:----------------------------------------------:|
 ![CodeFU](https://code-fu-readme-badge.vercel.app/badges/default-badge.svg) ![CodeFU staff](https://code-fu-readme-badge.vercel.app/badges/afonseca.svg)
+|:--------------------------------------:|:----------------------------------------------:|
