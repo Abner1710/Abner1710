@@ -5,7 +5,7 @@ Soy un joven desarrollador de apps de web, apasionado en el mundo de la programa
 Actualmente estudiante de ingeniería en computación, he desarrollado diferentes proyectos personales en búsqueda de desarrollar herramientas útiles para todos, estoy dispuesto a colaborar en equipo, cuento de disciplina y constancia para lograr cualquier objetivo planteado.
 
 
-![CodeFU staff]((https://code-fu-readme-badge-1c0198600f3b.herokuapp.com/badges/afonseca.svg))
+![CodeFU staff](https://code-fu-readme-badge-1c0198600f3b.herokuapp.com/badges/afonseca.svg)
 
 
 ## Áreas de desarrollo:
